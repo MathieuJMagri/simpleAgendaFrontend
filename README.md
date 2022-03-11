@@ -1,6 +1,6 @@
 # ECSE428_Project_Frontend
 
-[Link to backend](https://github.com/FunnyQDaniel/ECSE428_Project_Backend)
+[Link to backend](https://github.com/MathieuJMagri/simpleAgendaBackend)
 
 Using GitHub Actions for CI/CD.
 
